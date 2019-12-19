@@ -1,0 +1,1 @@
+<annotations><filename>00000170.JPEG</filename><folder>images</folder><size><width>198</width><height>148</height><depth>3</depth></size><object><name>Lastbil</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>37.000000000000014</xmin><ymin>10.0</ymin><xmax>171.0</xmax><ymax>143.0</ymax></bndbox></object></annotations>
